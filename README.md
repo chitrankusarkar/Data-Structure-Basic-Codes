@@ -1,2 +1,2 @@
 # Data-Structure-Basic-Codes
-Nothing Special, just a beginner who wants to explore the beauty of programming. Here i ahve uploaded some of my DSA files in very fluent code. Hope It will help you. Thanks :)
+Nothing special, just a beginner who wants to explore the beauty of programming. Here i have uploaded some of my DSA codes in very fluent manner. Hope It will help you. Thanks :)
