@@ -1,5 +1,5 @@
 #include <iostream>
-#define SIZE 100
+#define SIZE 20
 using namespace std;
 
 class DeQueue
